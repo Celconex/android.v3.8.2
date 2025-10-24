@@ -1,0 +1,26 @@
+name: celconex.v3.8.2
+
+on: https://github.com/Celconex/android.v3.8.2
+  push: com.wCelconex_19056780
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs: https://play.google.com/console/8729530839422072366
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: set up JDK 11
+      uses: actions/setup-java@v4
+      with:
+        java-version: '11'
+        distribution: 'temurin'
+        cache: gradle
+
+    - name: Grant execute permission for gradlew
+      run: chmod +x gradlew
+    - name: Build with Gradle
+      run: ./gradlew build
