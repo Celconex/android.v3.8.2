@@ -38,12 +38,12 @@ chmod +x scripts/deploy-to-play-store.sh
 ### Developer Account
 - **Name**: Arturo Yair Ochoa Pineda
 - **Account ID**: 8729530839422072366
-- **App ID**: 4975791825773366332
+- **App ID**: https://github.com/Celconex/https-play.google.com-console-u-0-developers-8729530839422072366-app-listcom.wCelconex_19056780
 
 ### Console Links
-- **App Dashboard**: https://play.google.com/console/u/1/developers/8729530839422072366/app/4975791825773366332
-- **Release Management**: https://play.google.com/console/u/1/developers/8729530839422072366/app/4975791825773366332/tracks
-- **Internal Testing**: https://play.google.com/console/u/1/developers/8729530839422072366/app/4975791825773366332/tracks/4697338607724115803/releases/4/prepare
+- **App Dashboard**:https://github.com/Celconex/https-play.google.com-console-u-0-developers-8729530839422072366-app-listcom.wCelconex_19056780
+- **Release Management**: https://github.com/Celconex/https-play.google.com-console-u-0-developers-8729530839422072366-app-listcom.wCelconex_19056780
+- **Internal Testing**: https://github.com/Celconex/https-play.google.com-console-u-0-developers-8729530839422072366-app-listcom.wCelconex_19056780/4697338607724115803/releases/4/prepare
 
 ## 📋 Release Notes Template
 
@@ -131,3 +131,4 @@ For deployment issues:
 **Version**: 2.2.1  
 **Developer**: Arturo Yair Ochoa Pineda  
 **Account ID**: 8729530839422072366
+**App ID**: https://github.com/Celconex/https-play.google.com-console-u-0-developers-8729530839422072366-app-listcom.wCelconex_19056780
