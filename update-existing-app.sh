@@ -5,7 +5,7 @@ set -euo pipefail
 # CELCONEX - Actualizar App Existente
 # Developer: Arturo Yair Ochoa Pineda
 # Account ID: 8729530839422072366
-# App ID: 4975791825773366332
+# App ID: https://github.com/Celconex/https-play.google.com-console-u-0-developers-8729530839422072366-app-listcom.wCelconex_19056780
 # =====================================
 
 echo "🚀 Actualizando Celconex en Google Play Store"
