@@ -11,7 +11,7 @@ set -euo pipefail
 echo "🚀 Actualizando Celconex en Google Play Store"
 echo "👤 Developer: Arturo Yair Ochoa Pineda"
 echo "🆔 Account ID: 8729530839422072366"
-echo "📱 App ID: 4975791825773366332"
+echo "📱 App ID: https://github.com/Celconex/https-play.google.com-console-u-0-developers-8729530839422072366-app-listcom.wCelconex_19056780"
 echo "=================================="
 
 # Variables requeridas
@@ -35,8 +35,8 @@ done
 
 # Configuración específica de Celconex
 DEVELOPER_ID="8729530839422072366"
-EXISTING_APP_ID="4975791825773366332"
-APP_PACKAGE="com.celconex.app"
+EXISTING_APP_ID="https://github.com/Celconex/https-play.google.com-console-u-0-developers-8729530839422072366-app-listcom.wCelconex_19056780"
+APP_PACKAGE="com.wCelconex_19056780"
 
 # Versión nueva
 CELCONEX_VERSION="2.2.1"
