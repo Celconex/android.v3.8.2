@@ -43,12 +43,12 @@ chmod +x scripts/deploy-to-play-store.sh
 ### Console Links
 - **App Dashboard**:https://github.com/Celconex/https-play.google.com-console-u-0-developers-8729530839422072366-app-listcom.wCelconex_19056780
 - **Release Management**: https://github.com/Celconex/https-play.google.com-console-u-0-developers-8729530839422072366-app-listcom.wCelconex_19056780
-- **Internal Testing**: https://github.com/Celconex/https-play.google.com-console-u-0-developers-8729530839422072366-app-listcom.wCelconex_19056780/4697338607724115803/releases/4/prepare
+- **Internal Testing**: https://github.com/Celconex/https-play.google.com-console-u-0-developers-8729530839422072366-app-listcom.wCelconex_19056780/469733860772411580/releases/4/prepare
 
 ## 📋 Release Notes Template
 
 ```
-🆕 Celconex v2.2.1 - Actualización Mayor
+🆕 Celconex.v3.8.2 - Actualización Mayor
 
 ✅ Totalmente compatible con Android 15+ (page size > 16KB)
 🎨 Nuevo diseño de logo moderno con animaciones
@@ -121,7 +121,7 @@ unzip -l your.aab | grep -E "\.(debug|sym|dbg)$"
 ## 📞 Support
 
 For deployment issues:
-1. Check build logs in `builds/v2.2.1/`
+1. Check build logs in `builds/v3.8.2/`
 2. Verify all environment variables are set
 3. Ensure Google Play Console access
 4. Review error logs in Android Studio
