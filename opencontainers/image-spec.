@@ -1,2 +1,23 @@
 here
-LABEL org.opencontainers.image.source=https://github.com/Celconex/my-android.v3.8.2
+LABEL org.opencontainers.image.source=https://github.com/Celconex/my-com.wCelconex_19056780
+android {
+    buildTypes {
+        release {
+
+            // Enables code-related app optimization.
+            isMinifyEnabled = true
+
+            // Enables resource shrinking.
+            isShrinkResources = true
+
+            proguardFiles(
+                // Default file with automatically generated optimization rules.
+                getDefaultProguardFile("proguard-android-optimize.txt"),
+
+                ...
+            )
+            ...
+        }
+    }
+    ...
+}
