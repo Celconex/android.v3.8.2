@@ -1,7 +1,7 @@
 name:https://play.google.com/console/u/0/developers/8729530839422072366/app-list
 
-on: https://github.com/Celconex/android.v3.8.2
-  push: com.wCelconex_19056780
+on: https://play.google.com/console/u/0/developers/8729530839422072366/app-list
+  push: https://play.google.com/console/u/0/developers/8729530839422072366/app-list
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
